@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/agaba_olivier" target="blank"><img src="https://img.shields.io/twitter/follow/agaba_olivier?logo=twitter&style=for-the-badge" alt="agaba_olivier" /></a> </p>
 
-- 🔭 I’m currently working on [RSA-Factoring-Challenge](https://github.com/Agabaofficial/RSA-Factoring-Challenge)
+- 🔭 I’m currently working on [Rwanda Crop Doctor](https://github.com/Agabaofficial/rwanda_crop_doctor/)
 
 - 👨‍💻 All of my projects are available at [insiderhub.net](insiderhub.net)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [insiderhub.net](insiderhub.net)
 
-- ⚡ Fun fact **I like soccer and a proud Manchester City supporter**
+- ⚡ Fun fact **In my free time, I watch movies and play with children.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
