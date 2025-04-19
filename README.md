@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Rwanda Crop Doctor](https://github.com/Agabaofficial/rwanda_crop_doctor/)
 
-- 👨‍💻 All of my projects are available at [insiderhub.net](insiderhub.net)
+- 👨‍💻 All of my projects are available at [mp4jaja](mp4jaja.online)
 
-- 📝 I regularly write articles on [techrwanda.com](techrwanda.com)
+- 📝 I regularly write articles on [Personal blog](agabaolivier.blogspot.com)
 
 - 💬 Ask me about **C, JAVA and Python**
 
