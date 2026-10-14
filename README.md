@@ -1,35 +1,116 @@
-<h1 align="center">Hi 👋, I'm Agaba Olivier</h1>
-<h3 align="center">A passionate frontend developer from Rwanda and software engineer by ALX</h3>
+# Agaba Olivier
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agabaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="agabaofficial" /> </p>
+### Software Engineer | Computer Science Graduate | Software Product Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agabaofficial" alt="agabaofficial" /></a> </p>
+I am a Computer Science graduate from **Kabale University** and an **ALX Software Engineering graduate** through the *We Do Hard Things* program.
 
-<p align="left"> <a href="https://twitter.com/agaba_olivier" target="blank"><img src="https://img.shields.io/twitter/follow/agaba_olivier?logo=twitter&style=for-the-badge" alt="agaba_olivier" /></a> </p>
+I have been building software since 2018, with experience developing web applications, desktop applications, business management systems, and digital platforms. My focus is on creating practical software products that solve real-world problems, improve business operations, and make technology more accessible.
 
-- 🔭 I’m currently working on [Rwanda Crop Doctor](https://github.com/Agabaofficial/rwanda_crop_doctor/)
+I have also published applications on the Google Play Store and Microsoft Store.
 
-- 👨‍💻 All of my projects are available at [mp4jaja](mp4jaja.online)
+## About Me
 
-- 📝 I regularly write articles on [Personal blog](agabaolivier.blogspot.com)
+- **Education:** Bachelor's degree in Computer Science, Kabale University.
+- **Professional Training:** Software Engineering, ALX — We Do Hard Things.
+- **Experience:** Software development, application design, and digital product development.
+- **Interests:** Web development, desktop applications, OCR, image editing, automation, and business software.
+- **Portfolio:** [olivier.jlyhgroup.com](https://olivier.jlyhgroup.com)
 
-- 💬 Ask me about **C, JAVA and Python**
+## Selected Projects
 
-- 📫 How to reach me **agabaolivier85@gmail.com**
+### JLYH Group
 
-- 📄 Know about my experiences [insiderhub.net](insiderhub.net)
+A digital media and technology platform covering news, sports, and live broadcasting.
 
-- ⚡ Fun fact **In my free time, I watch movies and play with children.**
+- **Main Website:** [jlyhgroup.com](https://jlyhgroup.com)
+- **Live TV:** [stream.jlyhgroup.com](https://stream.jlyhgroup.com)
+- **Live Radio:** [live.jlyhgroup.com](https://live.jlyhgroup.com)
+- **Sports News:** [sport.jlyhgroup.com](https://sport.jlyhgroup.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/agaba_olivier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agaba_olivier" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/agabaolivier85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agabaolivier85" height="30" width="40" /></a>
-</p>
+### PosterMyWall Alternative
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+A visual design and image-editing platform concept that allows users to upload existing designs, detect text using Optical Character Recognition (OCR), and manipulate the detected text.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agabaofficial&show_icons=true&locale=en" alt="agabaofficial" /></p>
+The goal is to make it easier to edit text in existing images while preserving the convenience of a browser-based design workflow.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agabaofficial&" alt="agabaofficial" /></p>
+### SAF-T POS
+
+An offline-first point-of-sale application designed to support retail operations, inventory management, barcode-based sales, receipts, and business reporting.
+
+### Report Card Generator Pro
+
+A Windows desktop application for schools to manage student marks, configure grading systems, and generate professional student report cards.
+
+### Business Management Software
+
+I also work on custom software solutions for business operations, financial record management, and other workflows that benefit from digital automation.
+
+For more projects, visit [olivier.jlyhgroup.com](https://olivier.jlyhgroup.com).
+
+## Technical Skills
+
+**Programming Languages**
+
+- PHP
+- C#
+- Java
+- Python
+- JavaScript
+- MQL5
+
+**Web Technologies**
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+
+**Desktop Application Development**
+
+- C#
+- .NET
+- Windows Forms
+
+**Mobile Development**
+
+- Flutter
+- Firebase
+
+**Databases and Tools**
+
+- MySQL
+- SQLite
+- Git
+- GitHub
+- Visual Studio
+- Visual Studio Code
+- Linux
+
+## Areas of Interest
+
+- Software engineering and application architecture
+- Business software and enterprise automation
+- Desktop and mobile application development
+- OCR and intelligent image editing
+- Digital publishing and media platforms
+- Financial technology and trading automation
+- Educational technology
+- Building and scaling independent software products
+
+## My Approach
+
+I believe software should do more than demonstrate technical ability. It should solve genuine problems, remain practical for its users, and deliver value beyond the code itself.
+
+My goal is to continue developing useful digital products, expanding my engineering expertise, and building technology solutions that serve businesses and communities across Africa and beyond.
+
+## Portfolio and Projects
+
+Explore my work and software projects:
+
+- [olivier.jlyhgroup.com](https://olivier.jlyhgroup.com)
+- [JLYH Group](https://jlyhgroup.com)
+
+---
+
+*Software engineering, practical innovation, and building products that solve real problems.*
